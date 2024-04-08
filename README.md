@@ -1,2 +1,2 @@
 # Smx_Testing
-Check lists and test cases
+Check lists and test cases (qase.io)
